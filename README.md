@@ -1,6 +1,7 @@
-# Bitcoin phpMiner
+# phpMiner2
 
-phpMiner uses CPU and it is slower than normal CPU miner. I didn't know it untill I made it, but that wasn't the goal. The goal was to be able to mine on server without much trouble and to run this on for example a webhost.
+phpMiner2 uses CPU and it is slower than normal CPU miner. You can mine on 
+ a server without much trouble and run this on, for example, a webhost.
 
 Run `test.php` for **testcase**.
 
@@ -24,7 +25,7 @@ Visit `work.php`-page
 
 ## Donate
 
-Feel free to donate. `1NibBDZPvJCm568CZMnJUBJoPyUhW7aSag` This will keep me continue improving and updating, Thanks!
+Feel free to donate. `1EP7gSdfNLwTxDWX9XdCwSetHHeFMvU28m`
 
 ## Change log
 
